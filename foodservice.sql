@@ -1,12 +1,5 @@
 CREATE  DATABASE FoodserviceDB;
-SELECT TOP 5 * FROM Restaurant;
-SELECT TOP 5 * FROM Ratings;
-SELECT TOP 5 * FROM Consumer;
-SELECT TOP 5 * FROM Restaurant_Cuisines;
 
-SELECT MIN(Age)
-FROM Consumer 
-JOIN Restaurant
 
 -- Adding primary and foreign key constraints --
 ALTER TABLE Ratings
