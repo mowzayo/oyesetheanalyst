@@ -181,7 +181,7 @@ WHERE C.Consumer_ID IN (
       AND C.Transportation_Method = 'Car'
 );
 
-/* System Function * Use count to find the total number of people with marital status married.*/
+/* System Function * Use count to find the total number of people with marital status married*/
 
 System Function * Use count to find the total number of people with marital status married
 
